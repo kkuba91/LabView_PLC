@@ -2,10 +2,10 @@
 
 Simple linear sequence implementation with known from PLC metodology features:
 
- - Interlock (condition if True -> sep can set Action to True)
- - Action
+ - Interlock (condition if True -> step can set Action to True)
+ - Action (for HW outputs activation)
  - Transition (if True -> go to next step)
- - Actice (Step is active)
+ - Active (Step is active)
 
 # Example project 
 
