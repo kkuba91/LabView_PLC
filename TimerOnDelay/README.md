@@ -1,5 +1,7 @@
 # Timer On Delay
 
+Timer function for implementing inside DoWhile loop (not affecting to additional delays/sleeps inside loop)
+
 Input[1]: Trigger - boolean signal
 
 Input[2]: Time to delay in miliseconds - integer constant
