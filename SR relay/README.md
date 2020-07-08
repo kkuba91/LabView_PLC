@@ -8,4 +8,4 @@ Output[1]: "Q" the output of relay
 
 ## Example of use
 
-![alt text](https://github.com/kkuba91/LabView_PLC/blob/master/P_N_Triggers/P_Trigger_2.png?raw=true)
+![alt text](https://github.com/kkuba91/LabView_PLC/blob/master/SR%20relay/SR_Example.png?raw=true)
