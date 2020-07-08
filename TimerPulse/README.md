@@ -6,11 +6,11 @@ Input[1]: Trigger - boolean signal
 
 Input[2]: Time to delay output active state in miliseconds - integer constant
 
-Input[3]: Reference to structure of: Boolean, Numeric (I32)
+Input[3]: Reference to structure of: Boolean, Boolean, Numeric (I32)
 
 Output[1]: "Q" the output triggered by Input[1] and latched for Input[2] in miliseconds
 
-Output[2]: "ET" - Elapsed Time in miliseconds
+Output[2]: "ET" - Elapsed Time of generated pulse in miliseconds
 
 ## Example of use
 
