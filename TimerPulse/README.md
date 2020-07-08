@@ -14,4 +14,4 @@ Output[2]: "ET" - Elapsed Time of generated pulse in miliseconds
 
 ## Example of use
 
-![alt text](https://github.com/kkuba91/LabView_PLC/blob/master/TimerPulse/TP_Example1.png?raw=true)
+![alt text](https://github.com/kkuba91/LabView_PLC/blob/master/TimerPulse/TP_Example2.png?raw=true)
